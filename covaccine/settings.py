@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-xgd&)r#5%)!4=0)zfx3=8t&ixz#d8w436$**w&4b!0au*4ibm2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://finding-vaccine-center.herokuapp.com/']
 
 
 # Application definition
